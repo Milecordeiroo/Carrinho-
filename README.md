@@ -1,6 +1,6 @@
 # Carrinho mecatronico
 Projeto de um veículo mecatrônico usando sucata de lixo eletrônico 
-AUTORAS
+## Autores
 jamile
 raphaella
 gabriella
